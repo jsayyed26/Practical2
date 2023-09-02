@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main()
 {
-  print("Hello Jilani");
-  print("This is updated");
+  printf("Hello Jilani");
+  printf("This is updated");
 }
